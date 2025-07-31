@@ -1,0 +1,1 @@
+PS C:\Users\hp\OneDrive\Bureau\molecule article\PLANTE 2\docking\3lqs\DOC> & "C:\Program Files (x86)\The Scripps Research Institute\Vina\vina.exe" --receptor P.pdbqt --ligand lig1.pdbqt --config lig1.txt --log log1.txt --out output.pdbqt
