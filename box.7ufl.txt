@@ -1,0 +1,8 @@
+receptor = P.pdbqt
+exhaustiveness  = 8
+center_x = 29.8697515966
+center_y = 2.40340751423
+center_z = 49.3092148932
+size_x = 75.0398593782
+size_y = 75.1103193185
+size_z = 62.2566068368
